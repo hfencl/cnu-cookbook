@@ -1,4 +1,4 @@
-export const mockResipes = [
+export const mockRecipes = [
   {
     _id: '5bf6cbef6ac34b001baef483',
     title: '13 hodinová kachna',
